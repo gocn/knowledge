@@ -1,0 +1,34 @@
+{
+  "name": "gocn-knowledge",
+  "version": "1.0.0",
+  "description": "gocn knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gocn/knowledge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gocn/knowledge/issues"
+  },
+  "homepage": "https://github.com/gocn/knowledge#readme",
+  "dependencies": {
+    "@vuepress/plugin-active-header-links": "^1.2.0",
+    "@vuepress/plugin-back-to-top": "^1.2.0",
+    "@vuepress/plugin-medium-zoom": "^1.2.0",
+    "@vuepress/plugin-nprogress": "^1.2.0",
+    "@vuepress/plugin-pwa": "^1.2.0",
+    "moment": "^2.24.0",
+    "vuepress": "^1.5.4"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
