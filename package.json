@@ -25,7 +25,7 @@
     "@vuepress/plugin-medium-zoom": "^1.2.0",
     "@vuepress/plugin-nprogress": "^1.2.0",
     "@vuepress/plugin-pwa": "^1.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vuepress": "^1.5.4"
   },
   "devDependencies": {
